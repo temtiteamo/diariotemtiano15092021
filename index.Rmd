@@ -1,0 +1,63 @@
+--- 
+title: "Diario Temtiano edición 15.09.2021"
+date: "2021-09-15"
+lang: es-es
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+github-repo: temtiteamo/diariotemtiano15092021
+description: "Mucho texto acerca de un tramo de la historia temtiana."
+header-includes:
+  - \usepackage{fancyhdr}
+  - \usepackage{lipsum}
+  - \pagestyle{plain}
+  - \fancyhead[CO,CE]{\thepage}
+  - \fancyfoot[LE,RO]{\thepage}
+---
+
+
+# Notas de la edición {-}
+
+**Diario Temtiano** edición 15.09.2021
+
+## Novedades en esta edición {-}
+
+- Segmentado el Quinto capítulo en dos partes, dando lugar al siguiente de su naturaleza: *La época de las infinitas prórrogas disfuncionales (Sexto capítulo)*, el cual abarcará todo aquel periodo posterior al Reingreso en orbita que tenga a Temti funcionando en condiciones inaceptables.
+
+> Un suceso tan importante como el supuesto Reingreso en orbita y todas sus repercusiones venideras perfectamente marcan un antes y un después en la historia temtiana, por lo que amerita inaugurar un nuevo capítulo partiendo desde ese momento.
+
+- Agregado un nuevo subcapítulo al Sexto capítulo: *Colisión de ilusiones (Sexto capítulo, subcapítulo V)*, que trata de la primera parte del momento que se pudo entrar a Temti y ver algo de la aparente nueva interfaz.
+
+> Parte necesaria para lograr ponerse más al día con los últimos acontecimientos.
+
+- Realizadas pequeñas correcciones en el contenido de varios subcapítulos de la obra.
+
+> Con fin de continuar mejorando la obra en general, tanto corrigiendo errores como reescribiendo partes que podrían quedar mejor.
+
+- Incluidas en algunos subcapítulos de la obra menciones a ciertos temas específicos secundarios recurrentes en la sociedad temtiana: romances temtianos, propaganda de la ideología comunista (concretamente la que comenzó a ser preponderante a partir de mediados del Cuarto capítulo), apariciones de Celeshtee, multimedia futanari, y contenido de Cati. 
+
+> Para que Diario Temtiano no solo haga énfasis en los mismos asuntos principales de siempre sino que también contenga referencias a más aspectos medianamente relevantes comprendidos dentro de la deseada o no realidad temtiana. En este caso, tendencias que durante los momentos de poca actividad llegaron a ser protagonistas. 
+
+- Remarcados en los subcapítulos correspondientes dos aspectos los cuales no se habían mencionado como tal: la interpretada indiferencia de A. respecto a cuidar su antro y la fecha de vencimiento del dominio.
+
+> Para también incluir mejor aspectos puntuales de la realidad temtiana que faltaban en la obra.
+
+- Añadida una mención a los personajes o *//avatarfags//* que destacaron durante el Primer Éxodo en el siguiente subcapítulo: *Ya no tan despegadas de su antiguo contexto clónico (Primer capítulo, subcapítulo II)*
+
+> Persiguiendo tener mayor nivel de detalle, esta vez haciendo referencia a un tema que no fue tratado en el Primer capítulo pero que si estuvo presente durante el periodo abarcado por el mismo: las figuras visibles de ese entonces.
+
+- Explicitadas algunas referencias a específicos términos no tan importantes y también a ciertos tems emblemáticos, concretamente *//Temti-legacy//* (tema de apariencia similar a Temti en Hixxel), *//Club Penguin//* (temti.net/cp) *//tem de pendejas//* y *//tem de arte temático//*.
+
+> Intentando que queden más claros otros símbolos o nombres que fueron significativos en la historia temtiana.
+
+- Reformulado el hilo conductor de: *Mientras se buscan respuestas que nadie dará (Segundo capítulo, subcapítulo III)*
+
+> Conectado mejor el nuevo comienzo de Temti con el mensaje traducido del Testamento, no centrando tanto la explicación en base a lo que ocurre en la *//realidad ficticia//* sino más en los hechos ocurridos anteriormente en la historia temtiana.
+
+
+## Cambios previstos para la próxima edición {-}
+
+- Seguir poniéndose al día.
+
+- Continuar corrigiendo errores.
+
